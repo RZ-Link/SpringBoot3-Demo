@@ -1,4 +1,4 @@
-package com.example.demo.util;
+package com.example.demo.r;
 
 import com.alibaba.fastjson2.JSON;
 import com.alibaba.fastjson2.TypeReference;
